@@ -2,7 +2,15 @@
 
 
 <h1 align="center">Hi 👋, I'm Khadija Baig</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">I'm an Undergraduate student pursuing B.Tech in the field of Artificial intelligence and Machine Learning. I am a frontend developer and python ennthusiast</h3>
+
+<h3 align="center">I'm the kind of person who doesn't give up easily, and I'm super interested in learning about new technologies. 
+At present, my goal is to bring together the technical side of coding and the imaginative world of creativity. It's like making these two different things work hand in hand. Imagine putting these two cool things together and seeing what magic happens!</h3>
+
+
+I'm someone who's really determined and loves learning about new technologies. Right now, I'm on a mission to bring together the technical side of coding and the imaginative world of creativity. It's like making these two different things work hand in hand.
+
+
 
 
 <h3 align="left">Connect with me:</h3>
