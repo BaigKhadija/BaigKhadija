@@ -8,7 +8,8 @@
 </p>
 
  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="500px" align="right"  />
- 
+
+ <h3> About me:</h3>
 - 🌱 I’m currently working on developing my coding skills.
 - 🔭 I’m currently learning more stuff on Machine Learning and Web development.
 - 📫 How to reach me: engg.khadija@gmail.com
