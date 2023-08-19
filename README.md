@@ -1,10 +1,10 @@
 ![hey](https://github.com/BaigKhadija/BaigKhadija/assets/138012414/9fe6ece9-e659-4c22-a832-3eee7b0ce0c8)
 
 
-<h1 align="center">Hey, wonderful individuals</h1>
-<p align="center">I'm an Undergraduate student pursuing B.Tech in the field of Artificial intelligence and Machine Learning.
+<h1 align="center">Hey, wonderful individuals 🦋</h1>
+<p align="center"> 👩‍🎓I'm an Undergraduate student pursuing B.Tech in the field of Artificial intelligence and Machine Learning. 🌟
  <br> I'm the kind of person who doesn't give up easily, and I'm super interested in learning about new technologies. 
- <br>  At present, my goal is to bring together the technical side of coding and the imaginative world of creativity. It's like making these two different things work hand in hand. Imagine putting these two cool things together and seeing what magic happens!
+ 💫At present, my goal is to bring together the technical side of coding and the imaginative world of creativity💭. It's like making these two different things work hand in hand 🤝. Imagine putting these two cool things together and seeing what magic happens! 🪄
 </p>
 
 <h3 align="left">Connect with me:</h3>
