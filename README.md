@@ -13,11 +13,6 @@
 <br>
 <br>
  <h3> About me:</h3>
-   - 🌱 I’m currently working on developing my coding skills
-   - 🔭 I’m currently learning more stuff on Machine Learning and Web development.
-   - ☎️ How to reach me: engg.khadija@gmail.com <br>
-
-
  
   - 🌱 I’m currently working on developing my coding skills. <br>
    - 🔭 I’m currently learning more stuff on Machine Learning and Web development. <br>
