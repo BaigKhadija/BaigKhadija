@@ -10,7 +10,6 @@
 -----
  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="500px" align="right"  />
 
------ 
 <br>
 <br>
  <h3> About me:</h3>
@@ -19,7 +18,7 @@
 - ☎️ How to reach me: engg.khadija@gmail.com <br>
 - 🎀 Fun fact: The only code I write without any errors : "Hello World". <br>
 
-  
+-----  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khadija-baig-6805a0226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khadija-baig-6805a0226" height="30" width="40" /></a>
