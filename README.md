@@ -9,7 +9,7 @@
 
 ![coding girl](https://github.com/BaigKhadija/BaigKhadija/assets/138012414/a01938a6-e150-413f-9f49-0ed659f9fa2c)
 
-
+<img align="right" alt="Coding" width="400" src=""E:\Khadija\github\coding girl.gif"">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
