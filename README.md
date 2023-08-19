@@ -1,4 +1,4 @@
-![hey](https://github.com/BaigKhadija/BaigKhadija/assets/138012414/4352d989-891e-46a5-acd3-3145085cc6e2)
+![hey](https://github.com/BaigKhadija/BaigKhadija/assets/138012414/a3b23e1a-71cb-4bdd-86e3-9030c8eeca17)
 
 <h1 align="center">Hi 👋, I'm Khadija Baig</h1>
 <h3 align="center">A passionate frontend developer</h3>
