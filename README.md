@@ -13,10 +13,10 @@
 <br>
 <br>
  <h3> About me:</h3>
-- 🌱 I’m currently working on developing my coding skills. <br>
-- 🔭 I’m currently learning more stuff on Machine Learning and Web development. <br>
-- ☎️ How to reach me: engg.khadija@gmail.com <br>
-- 🎀 Fun fact: The only code I write without any errors : "Hello World". <br>
+   - 🌱 I’m currently working on developing my coding skills. <br>
+   - 🔭 I’m currently learning more stuff on Machine Learning and Web development. <br>
+   - ☎️ How to reach me: engg.khadija@gmail.com <br>
+   - 🎀 Fun fact: The only code I write without any errors : "Hello World". <br>
 
 ---
 <h3 align="left">Connect with me:</h3>
