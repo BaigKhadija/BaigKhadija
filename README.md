@@ -1,3 +1,5 @@
+![hey](https://github.com/BaigKhadija/BaigKhadija/assets/138012414/9fe6ece9-e659-4c22-a832-3eee7b0ce0c8)
+
 ![hey](https://github.com/BaigKhadija/BaigKhadija/assets/138012414/a3b23e1a-71cb-4bdd-86e3-9030c8eeca17)
 
 <h1 align="center">Hi 👋, I'm Khadija Baig</h1>
