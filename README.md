@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baigkhadija&" alt="baigkhadija" /></p>
 
-![ai4](https://github.com/BaigKhadija/BaigKhadija/assets/138012414/9461dfcb-9607-4c6d-befe-815de5b6acd9)
+![footer](https://github.com/BaigKhadija/BaigKhadija/assets/138012414/e93945af-38c4-4b78-8bae-281e3c2b72ae)
