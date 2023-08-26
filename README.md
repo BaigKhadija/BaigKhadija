@@ -22,7 +22,7 @@
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/khadija-baig-6805a0226" target="blank"></a>
+<a href="https://linkedin.com/in/khadija-baig-6805a0226" target="blank">lk</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
