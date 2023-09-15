@@ -7,7 +7,7 @@
  💫At present, my goal is to bring together the technical side of coding and the imaginative world of creativity💭. It's like making these two different things work hand in hand 🤝. Imagine putting these two cool things together and seeing what magic happens! 🪄
 </p>
 
-------
+-------
  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="500px" align="right"  />
 
 <br>
