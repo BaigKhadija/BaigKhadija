@@ -34,7 +34,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baigkhadija&" alt="baigkhadija" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baigkhadija&show_icons=true&locale=en" alt="baigkhadija" /></p>
-
 ![footer](https://github.com/BaigKhadija/BaigKhadija/assets/138012414/e93945af-38c4-4b78-8bae-281e3c2b72ae)
 
